@@ -19,6 +19,7 @@ background-color:black;
 }
 .top .media-icons{
 	font-size:1.9rem;
+	display:flex;
 
 }
 .top .media-icons i{
